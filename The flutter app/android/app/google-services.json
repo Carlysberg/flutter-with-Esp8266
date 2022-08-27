@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52753003572",
+    "firebase_url": "https://jay-c-802ef-default-rtdb.firebaseio.com",
+    "project_id": "jay-c-802ef",
+    "storage_bucket": "jay-c-802ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52753003572:android:994c3f0cefeb8d10610661",
+        "android_client_info": {
+          "package_name": "com.example.jay_c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52753003572-8r2rcgo2k0fsije5hcb6cdt0ermqq5ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOCOJLaSHHF65Fo4PgmcfHU5qTb_xiM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52753003572-8r2rcgo2k0fsije5hcb6cdt0ermqq5ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
